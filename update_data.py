@@ -143,5 +143,6 @@ if __name__ == '__main__':
             update()
             prevBibTime = currentBibTime
         else:
-            print("waiting for changes in bib file: " + BIB_FILE)
+            # print("waiting for changes in bib file: " + BIB_FILE)
+            pass
         time.sleep(1)

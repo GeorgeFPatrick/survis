@@ -1,5 +1,4 @@
 const userDefinedTagCategories = {
-	"type": {
-		"description": "type of the paper"
-	}
+	"neural network type": {},
+	"evaluation type": {},
 }
